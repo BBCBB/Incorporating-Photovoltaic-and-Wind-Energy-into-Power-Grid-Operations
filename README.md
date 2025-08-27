@@ -44,5 +44,10 @@ This repository contains MATLAB scripts to study the impact of photovoltaic (PV)
   - Developed by Behnam Jabbari Marand, Ph.D. Student, NC State University
   - Focus: Optimization, integer programming, and power systems applications.
 
+**Example Results:**
 
+**Total Generation (All Scenarios)** 
+![Total Generation](results/figure8.png)
 
+**Unit Commitment Schedule (Scenario 1)** 
+![Commitment Schedule](results/figure9.png)

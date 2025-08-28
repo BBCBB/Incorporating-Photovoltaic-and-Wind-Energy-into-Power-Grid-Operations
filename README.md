@@ -40,9 +40,6 @@ This repository contains MATLAB scripts to study the impact of photovoltaic (PV)
   - Unit commitment schedules for each generator.
   - Total cost comparison across all scenarios.
 
-**Author:**
-  - Developed by Behnam Jabbari Marand, Ph.D. Student, NC State University
-  - Focus: Optimization, integer programming, and power systems applications.
 
 **Example Results:**
 
@@ -51,3 +48,7 @@ This repository contains MATLAB scripts to study the impact of photovoltaic (PV)
 
 **Unit Commitment Schedule (Scenario 1)** 
 ![Commitment Schedule](results/figure9.png)
+
+**Author:**
+  - Developed by Behnam Jabbari Marand, Ph.D. Student, NC State University
+  - Focus: Optimization, integer programming, and power systems applications.
